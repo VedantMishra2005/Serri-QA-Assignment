@@ -234,7 +234,7 @@ Result:
 
 Screenshot:
 
-![Test Execution Result](screenshots/test-result.png)
+![Test Execution Result](4 passed.png)
 
 
 # HTML Report
@@ -248,7 +248,7 @@ npx playwright show-report
 
 Report Screenshot:
 
-![Playwright Report](screenshots/playwright-report.png)
+![Playwright Report](playwright-report.png)
 
 
 # Page Object Model Implementation
