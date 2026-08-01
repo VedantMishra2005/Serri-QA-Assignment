@@ -234,7 +234,7 @@ Result:
 
 Screenshot:
 
-![Test Execution Result](4 passed.png)
+![Test Execution Result](4-passed.png)
 
 
 # HTML Report
